@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/orgchartpart.codeplex.com.ico</file>
+        <file>Images/qun.qq.com.ico</file>
+    </qresource>
+</RCC>

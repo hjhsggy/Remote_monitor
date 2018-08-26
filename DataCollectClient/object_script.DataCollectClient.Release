@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\dialog.o
+./release\drawwnd.o
+./release\textwnd.o
+./release\strip.o
+./release\stripwnd.o
+./release\tempwnd.o
+./release\abpwnd.o
+./release\moc_dialog.o
+./release\moc_drawwnd.o
+./release\moc_textwnd.o
+./release\moc_stripwnd.o
+./release\moc_tempwnd.o
+./release\moc_abpwnd.o
+);

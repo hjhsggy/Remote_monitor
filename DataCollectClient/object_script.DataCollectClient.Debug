@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\dialog.o
+./debug\drawwnd.o
+./debug\textwnd.o
+./debug\strip.o
+./debug\stripwnd.o
+./debug\tempwnd.o
+./debug\abpwnd.o
+./debug\moc_dialog.o
+./debug\moc_drawwnd.o
+./debug\moc_textwnd.o
+./debug\moc_stripwnd.o
+./debug\moc_tempwnd.o
+./debug\moc_abpwnd.o
+);
